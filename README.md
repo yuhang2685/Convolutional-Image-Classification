@@ -13,7 +13,13 @@ At that time, the [literature](http://xenon.stanford.edu/~pgolle/papers/dogcat.p
 Today, we use the full Kaggle dataset (12,500 for dogs and 12,500 for cats)
 to build a simple Convolutional Neural Network for illustrating the recognition task.
 Our simple 3 level CNN model achieves 85% accuracy.
+
+
+![Figure](CNN-model.png)
+
+![Figure](SimpleCNN-performance.png)
+
 We can easily apply Transfer Learning on some Deep Neural Network to achieve 97% accuracy,
 but it is out of scope of this work.
 
-![Figure](SimpleCNN-performance.png)
+

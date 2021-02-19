@@ -25,9 +25,11 @@ Our simple 3 level CNN model achieves 85% accuracy.
 
 <img src="SimpleCNN-performance.png" width="30%">
 
-We can easily apply Transfer Learning to achieve 97% accuracy,
+We can easily apply Transfer Learning for sophiscated model to achieve 97% accuracy,
 but it is out of scope of this work.
 
 <img src="TransferLearning.png" width="30%">
 
+## Reference
 
+- [Machine Learning AttacksAgainst the Asirra CAPTCHA](http://xenon.stanford.edu/~pgolle/papers/dogcat.pdf)
